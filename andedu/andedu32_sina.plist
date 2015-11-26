@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://git.oschina.net/yanglishuan/youapp/raw/master/andedu_icon.png</string>
+					<string>https://raw.githubusercontent.com/xiaoliyang/apps/master/andedu/Icon_120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://git.oschina.net/yanglishuan/youapp/raw/master/andedu_icon.png</string>
+					<string>https://raw.githubusercontent.com/xiaoliyang/apps/master/andedu/Icon_120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.st.andedu</string>
+				<string>com.aspirecn.ih-gwx</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>移动学习平台beta版</string>
+				<string>和教育</string>
 				<key>title</key>
-				<string>移动学习平台beta版</string>
+				<string>和教育</string>
 			</dict>
 		</dict>
 	</array>
